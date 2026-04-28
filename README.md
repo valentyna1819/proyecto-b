@@ -50,3 +50,5 @@ A | B | A AND B
 V | V | F
 V | F | F
 F | V | V
+
+:+1: ✨ 🐫 🤡 🚀
