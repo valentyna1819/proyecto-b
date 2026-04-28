@@ -15,11 +15,11 @@ si quieren negrilla **entre doble asterisco**
 
 
 Este es un ejemplo de lista con viñetas
-*Item 1
-*Item 2
-  *Item 3 en otro nivel
-  *Item 4
-*Item 5 
+* Item 1
+* Item 2
+  * Item 3 en otro nivel
+  * Item 4
+* Item 5 
 
 Este es un ejemplo de lista numerada
 
