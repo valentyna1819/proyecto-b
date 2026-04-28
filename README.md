@@ -27,5 +27,13 @@ Este es un ejemplo de lista numerada
 2. Item 2
    * Item 2.1
    * Item 2.2
-   
+
+Ejemplo de un parrafo textual
+> "Hacer preguntas es una señal de que se piensa"
+>       -R. Tagore
+
+Lista de tareas
+- [x] Crear el archivo README
+- [x] Subirlo a Github
+- [ ] Terminar la clase  
 
