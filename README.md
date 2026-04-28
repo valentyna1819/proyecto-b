@@ -37,3 +37,9 @@ Lista de tareas
 - [x] Subirlo a Github
 - [ ] Terminar la clase  
 
+Ejemplo de sección de codigo
+```python
+print("Hola, como estas")
+if (x=5)
+   print("Ganaste)
+``` 
