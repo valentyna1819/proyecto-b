@@ -43,3 +43,10 @@ print("Hola, como estas")
 if (x=5)
    print("Ganaste)
 ``` 
+Tabla de verdad 
+
+A | B | A AND B
+--|---|----------
+V | V | F
+V | F | F
+F | V | V
